@@ -16,9 +16,7 @@ def csv_to_json(csvFilePath, jsonFilePath):
                     'type':row.get('service'),
                     'address':row.get('address_mm'),
                     'township':row.get('township_mm'),
-                    'phone':[row.get('phone1'), row.get('phone2'), row.get('phone3'),row.get('phone4'),row.get('phone5')],
-                    'latlng':row.get('LatLong')
-
+                    'phone':[row.get('phone1'), row.get('phone2'), row.get('phone3'),row.get('phone4'),row.get('phone5')]
             }
             jsonArray.append(row)
   
