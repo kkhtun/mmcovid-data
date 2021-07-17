@@ -12,7 +12,7 @@ def csv_to_json(csvFilePath, jsonFilePath):
         #convert each csv row into python dict
         for row in csvReader: 
             #add this python dict to json array
-            row = {'name_mm':row.get('name_mm'),
+            row = {'name':row.get('name_mm'),
                     'type':row.get('service'),
                     'address':row.get('address_mm'),
                     'township':row.get('township_mm'),
