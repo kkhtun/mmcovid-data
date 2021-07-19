@@ -14,11 +14,19 @@ def csv_to_json(csvFilePath, jsonFilePath, serviceFilePath):
             #add this python dict to json array
             if row.get('service') and row.get('service') not in uniqueServices:
                 uniqueServices.append(row.get('service'))
+
+            phoneList = []
+            i = 1
+            while i < 6:
+                if row.get("phone{}".format(i)):
+                    phoneList.append(row.get('phone{}'.format(i)))
+                i = i + 1
+
             row = {'name':row.get('name_mm'),
                     'type':row.get('service'),
                     'address':row.get('address_mm'),
                     'township':row.get('township_mm'),
-                    'phone':[row.get('phone1'), row.get('phone2'), row.get('phone3'),row.get('phone4'),row.get('phone5')]
+                    'phone':phoneList
             }
             jsonArray.append(row)
 
