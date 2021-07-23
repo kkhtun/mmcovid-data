@@ -7808,5 +7808,117 @@
             "09940702755",
             "09256317605"
         ]
+    },
+    {
+        "name": "Thi Thi Hlaing Oxygen Cylinders",
+        "type": "ဓါတ်ငွေ့နှင့်ဆေးရုံသုံးပစ္စည်းအရောင်းဆိုင်",
+        "address": "",
+        "township": "မန္တလေး",
+        "phone": [
+            "092044034",
+            "09765261908"
+        ]
+    },
+    {
+        "name": "W.B.G(ဝေဘာဂီ)လူမှုကယ်ဆယ်ရေးအသင်း",
+        "type": "ပရဟိတအသင်း",
+        "address": "မြောက်ဥက္ကလာပမြို့နယ်",
+        "township": "မြောက်ဥက္ကလာပ",
+        "phone": [
+            "09784552405"
+        ]
+    },
+    {
+        "name": "အနာဂတ် အလင်းတန်း ပရဟိတအသင်း ",
+        "type": "ပရဟိတအသင်း",
+        "address": "စမ်းချောင်းမြို့နယ်",
+        "township": "စမ်းချောင်း",
+        "phone": [
+            "09777336201"
+        ]
+    },
+    {
+        "name": "မိုးပရဟိတ လူမှုကယ်ဆယ်ရေးအသင်း",
+        "type": "ပရဟိတအသင်း",
+        "address": "တာမွေမြို့နယ်",
+        "township": "တာမွေ",
+        "phone": [
+            "0943064578"
+        ]
+    },
+    {
+        "name": "အဖြူရောင်ကမ်းလက် လူမှုကူညီရေးအသင်း",
+        "type": "ပရဟိတအသင်း",
+        "address": "ဗိုလ်တစ်ထောင်မြို့နယ်",
+        "township": "ဗိုလ်တထောင်",
+        "phone": [
+            "09965170587",
+            "095075893",
+            "09785374493"
+        ]
+    },
+    {
+        "name": "ပုညပါရမီ လူမှုကယ်ဆယ်ရေးအသင်း",
+        "type": "ပရဟိတအသင်း",
+        "address": "လှိုင်သာယာမြို့နယ်",
+        "township": "လှိုင်သာယာ",
+        "phone": [
+            "09456942240"
+        ]
+    },
+    {
+        "name": "Call Me Today",
+        "type": "နှစ်သိမ့်ဆွေးနွေး",
+        "address": "https://www.facebook.com/CallMeToday.Service/",
+        "township": "",
+        "phone": [
+            "09782383145"
+        ]
+    },
+    {
+        "name": "Serenity Counselling service",
+        "type": "နှစ်သိမ့်ဆွေးနွေး",
+        "address": "https://www.facebook.com/serenitycounselingsupport",
+        "township": "",
+        "phone": [
+            "09776884275"
+        ]
+    },
+    {
+        "name": "Reach Out Myanmar - လူတိုင်းအတွက် စိတ်ပညာ",
+        "type": "နှစ်သိမ့်ဆွေးနွေး",
+        "address": "https://www.facebook.com/ReachOutMyanmar/",
+        "township": "",
+        "phone": [
+            "09767128927"
+        ]
+    },
+    {
+        "name": "Honest Hour",
+        "type": "နှစ်သိမ့်ဆွေးနွေး",
+        "address": "https://www.facebook.com/honesthourmyanmar",
+        "township": "",
+        "phone": [
+            "09792824522"
+        ]
+    },
+    {
+        "name": "Mental Heal",
+        "type": "နှစ်သိမ့်ဆွေးနွေး",
+        "address": "https://www.facebook.com/mentalhealmm/",
+        "township": "",
+        "phone": [
+            "09775049729",
+            "096971750111"
+        ]
+    },
+    {
+        "name": "Aung Clinic mental health initiative",
+        "type": "နှစ်သိမ့်ဆွေးနွေး",
+        "address": "https://www.facebook.com/Aung-Clinic-Mental-Health-Initiative-101163894989828",
+        "township": "",
+        "phone": [
+            "09262550937"
+        ]
     }
 ]
